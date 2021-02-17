@@ -1,6 +1,6 @@
 # Frontend Resources
 
-### HTML / CSS
+## HTML / CSS
 
 * [A beginner's guide to HTML&CSS](http://learn.shayhowe.com/html-css/)
 * [An advanced guide to HTML&CSS](http://learn.shayhowe.com/advanced-html-css/)
@@ -14,31 +14,32 @@
 * [HTML Dog Tutorials](http://www.htmldog.com)
 * [HTML5 Canvas](http://chimera.labs.oreilly.com/books/1234000001654/index.html) - Steve Fulton & Jeff Fulton
 * [HTML5 For Web Designers](http://html5forwebdesigners.com) - Jeremy Keith
-* [HTML5 Graphing and Data Visualization Cookbook](https://www.packtpub.com/packt/free-ebook/html5-data-visualization-cookbook) - Ben Fhala, Packt. (email address *requested*, not required)
+* [HTML5 Graphing and Data Visualization Cookbook](https://www.packtpub.com/packt/free-ebook/html5-data-visualization-cookbook) - Ben Fhala, Packt. \(email address _requested_, not required\)
 * [Learn CSS Layout the pedantic way](http://book.mixu.net/css/)
 * [Learn to Code HTML & CSS](https://learn.shayhowe.com) - Shay Howe
 * [MaintainableCSS](http://maintainablecss.com)
 * [Scalable and Modular Architecture for CSS](https://smacss.com) - Jonathan Snook
 * [Understanding Flexbox: Everything you need to know](https://ohansemmanuel.github.io/uf_download.html) - Ohans Emmanuel
 
-### ReactJS
+## ReactJS
 
 * [Learn React](https://scrimba.com/learn/learnreact)
 * [React tutorial for beginners](https://www.youtube.com/watch?v=Ke90Tje7VS0)
 * [React router](https://www.youtube.com/watch?v=Law7wfdg_ls)
 * [React Redux Tutorials by Codevolution](https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK)
 
-### VueJS
+## VueJS
 
 * [Vue JS Crash course](https://www.youtube.com/watch?v=Law7wfdg_ls)
-* [Vue - The Complete Guide(Udemy)(paid)](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
+* [Vue - The Complete Guide\(Udemy\)\(paid\)](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
 * [Vue3 Documentation](https://v3.vuejs.org/guide/introduction.html)
 * [FullStackOpen](https://fullstackopen.com/en/) - University of Helsinki
 
-### D3.js
+## D3.js
 
 * [Mastering Data Visualisation using D3.js](https://www.udemy.com/course/masteringd3js/)
 
-### P5.js
+## P5.js
 
 * [p5.js tutorials by Daniel Shiffman](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLglp04UYZK_PrN6xWo_nJ-8kzyXDyFUwi)
+
